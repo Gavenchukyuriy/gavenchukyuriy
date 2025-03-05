@@ -19,4 +19,6 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/gavenfromheaven
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/yuriy-gavenchuk-07192434b/)
+[linkedin]: https://www.linkedin.com/in/yuriy-gavenchuk-07192434b/
+
+
