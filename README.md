@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1>Hi, I'm Yuriy, an <a href="[coursecareers.com/courses/it-course](https://www.linkedin.com/in/yuriy-gavenchuk-07192434b/)">IT Professional</a>☺</h1>
+
+<h1>Hi there 👋, I'm Yuriy, an <a href="[coursecareers.com/courses/it-course](https://www.linkedin.com/in/yuriy-gavenchuk-07192434b/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
