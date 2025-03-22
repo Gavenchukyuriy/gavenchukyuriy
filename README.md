@@ -1,24 +1,29 @@
+# Hi there 👋, I'm Yuriy, an IT Professional ☺
 
+## 👨‍💻 Information Technology Projects:
 
-<h1>Hi there 👋, I'm Yuriy, an <a href="[coursecareers.com/courses/it-course](https://www.linkedin.com/in/yuriy-gavenchuk-07192434b/)">IT Professional</a>☺</h1>
+- **osTicket (Help Desk Ticketing System)**
+  - osTicket: Prerequisites and Installation
+  - osTicket: Post-Installation Configuration
+  - osTicket: Ticket Lifecycle Examples
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+- **Microsoft Azure & AWS**
+  - Configuring On-premises Active Directory within Azure VMs
+  - Network Security Groups (NSGs) and Inspecting Network Protocols
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Gavenchukyuriy/osticket.git))
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft AWS</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+## 📌 Featured Project: Home LAN Setup
 
-<h2>🤳Connect with me:</h2>
+I built a secure and efficient home network, including:
+- Configuring a router with VLANs for network segmentation
+- Setting up a firewall for enhanced security
+- Implementing a NAS for file storage and backups
+- Optimizing Wi-Fi coverage for seamless connectivity
 
+## 🚀 What I'm Learning:
+- Cloud Computing (Azure, AWS)
+- Networking & Security Fundamentals
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🤳 Connect with me:
 
-[instagram]: https://www.instagram.com/gavenfromheaven
-[linkedin]: https://www.linkedin.com/in/yuriy-gavenchuk-07192434b/
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
