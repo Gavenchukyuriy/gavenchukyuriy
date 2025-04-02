@@ -4,15 +4,15 @@
 
 - **osTicket (Help Desk Ticketing System)**
 
-  - [osTicket: Prerequisites and Installation](https://github.com/Gavenchukyuriy/gavenchukyuriy/blob/4151a1f45307e682275893bd9aeca3852b8c1a78/osticket-prereq-installation.md)
-  - [osTicket: Post-Installation Configuration](https://github.com/Gavenchukyuriy/gavenchukyuriy/blob/0a44730d9bfad178b3af59e9bfd61aeff03a0aae/osconfig.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Gavenchukyuriy/gavenchukyuriy/blob/0ca7d19030f9e92e88271e80208fb30208497a2a/oslife.md)
+  - [osTicket: Prerequisites and Installation](https://github.com/Gavenchukyuriy/gavenchukyuriy/os-pre.git)
+  - [osTicket: Post-Installation Configuration](https://github.com/Gavenchukyuriy/gavenchukyuriy/os-post.git)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Gavenchukyuriy/gavenchukyuriy/os-life.git)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/wilmarkabot/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/wilmarkabot/azure-network-protocols)
-  - [Network Files Shares and Permissions](https://github.com/wilmarkabot/ntwrk-fls-prmssns)
-  - [Building Intuitions for DNS](https://github.com/wilmarkabot/bldg-inttns-dns)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gavenchukyuriy/as-cad.git)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gavenchukyuriy/nsg.git)
+  - [Network Files Shares and Permissions](https://github.com/gavenchukyuriy/nfs.git)
+  - [Building Intuitions for DNS](https://github.com/gavenchukyuriy/dns.git)
 
 ## 📌 Featured Project: Home LAN Setup
 
